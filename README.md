@@ -2,7 +2,7 @@
 
 Cybersecurity Developer.
 
-(https://giphy.com/gifs/blackmarket-viceland-black-market-l3vR8AVhhH7ZJonRu)
+![GIF Example](https://giphy.com/gifs/blackmarket-viceland-black-market-l3vR8AVhhH7ZJonRu)
 
 More about me...
 
