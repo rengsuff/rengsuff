@@ -2,7 +2,7 @@
 
 Cybersecurity Developer.
 
-![BLAK'AT](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h1bGF3cnRqMnh2djBmbjlpZWM0ZHdlem5yOGZsZHFpOXlycmR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.webp)
+![BLAK'AT](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZqMjM0NDB5MjhvNHo5bDc5dnljZGgyODdsNHZyNmhzYXVod3cwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR8AVhhH7ZJonRu/giphy.webp)
 
 More about me...
 
